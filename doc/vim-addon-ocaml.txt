@@ -1,0 +1,21 @@
+TODO: tidy this help document up
+
+For now README.markdown is all youh have - bear with me.
+
+This plugin is work in progess - not much documentation present yet
+
+most of this code originates here
+markus-vim: http://www.ocaml.info/vim/
+
+TODO ?
+http://jun.furuse.info/hacks/ocamlspotter/
+
+
+Emacs tools:
+============== 
+e emacs + ocaml-mode (core Caml) 
+ tuareg (http://forge.ocamlcore.org/projects/tuareg)
+
+
+http://caml.inria.fr/cgi-bin/hump.en.cgi?contrib=105 taggae ?
+create tag files for vim? How does it compare with ctags?
